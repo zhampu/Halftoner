@@ -2,15 +2,15 @@
 
 ## Instructions
 
- Arrow UP - Down = Dot Size
- Arrow Left - Right = Steps between dots
- + = zoom +
- - = zoom - 
- e = export pdf
- c = cyan
- m = magenta
- y = yellow
- k = black
+ - Arrow UP & Down = Dot Size
+ - Arrow Left & Right = Steps between dots
+ - + = zoom +
+ - - = zoom - 
+ - e = export pdf
+ - c = cyan
+ - m = magenta
+ - y = yellow
+ - k = black
  
  
  ## NOTES
@@ -19,7 +19,7 @@
  
  TO-DO
  
- 
+ Change the angle of dots individually
 
 
 

@@ -2,6 +2,8 @@
 
 ## Instructions
 
+Drag n' Drop the image to the Processing canvas and play with it
+
  - Arrow UP & Down = Dot Size
  - Arrow Left & Right = Steps between dots
  - + = zoom +

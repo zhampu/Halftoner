@@ -15,7 +15,7 @@
  
  ## NOTES
  
- Do not go crazy on the amount on the steps or you the program will crash
+ Do not go crazy on the amount on the steps or the program will crash
  
  TO-DO
  
